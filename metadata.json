@@ -1,0 +1,6 @@
+{
+  "name": "RaktSeva / LifeStream - e-Blood Donation & Inventory Management Platform",
+  "description": "Comprehensive e-Blood donation, real-time FIFO inventory tracking, donor cooling-off management, camp scheduling, and statutory health reporting platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
